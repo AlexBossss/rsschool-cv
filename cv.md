@@ -3,7 +3,8 @@
 **About me** <Br>
 My goal is to start a career as a Front-end developer. I want to find a job in a company, 
 where I get lots of interesting and hard tasks. I want to work and study more to become a confident specialist. 
-The more difficult task I get the better for me. I love studying and learning new things that's why I enroll this course. <hr>
+The more difficult task I get the better for me. I love studying and learning new things that's why I enroll this course.
+---
 **Skills**<br>
 * Front-end: <br>
 Basic knowledge of **HTML, CSS, JS**. Acquainted with **node.js, yarn, gulp, SASS(SCSS)** . Working with 
